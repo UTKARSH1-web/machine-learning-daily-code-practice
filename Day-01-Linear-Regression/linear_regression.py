@@ -21,7 +21,7 @@ print("Prediction:", predicted)
 #Graph Visualization
 plt.scatter(X, y, color='blue', label='Data Points')
 
-#best fit line
+#best fit line graph
 plt.plot(X, model.predict(X), color='red', label='Best Fit Line')
 plt.xlabel('Input (X)')
 plt.ylabel('Output (y)')
