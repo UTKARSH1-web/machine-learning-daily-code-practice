@@ -3,10 +3,10 @@ from sklearn.linear_model import LinearRegression
 import numpy as np
 
 #Input data
-X = np.array([[1], [2], [3], [4], [5]])
+X = np.array([[1], [2], [3], [4], [5], [6]])
 
 #Output data
-y = np.array([2, 4, 6, 8, 10])
+y = np.array([2, 4, 6, 8, 10, 12])
 
 #Create a linear regression model
 model = LinearRegression()
