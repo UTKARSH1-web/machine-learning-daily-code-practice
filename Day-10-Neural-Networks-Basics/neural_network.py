@@ -71,7 +71,7 @@ plt.bar(
 plt.ylabel("Accuracy (%)")
 plt.title("Neural Network Accuracy")
 
-# Save graph
+# Save graph path and file
 image_file = os.path.join(
     images_path,
     "neural_network_accuracy.png"
