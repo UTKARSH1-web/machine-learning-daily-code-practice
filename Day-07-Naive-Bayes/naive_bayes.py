@@ -9,7 +9,7 @@ import os
 # Current folder path
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# Create folders
+# Create folders for models and images
 models_path = os.path.join(BASE_DIR, "models")
 images_path = os.path.join(BASE_DIR, "images")
 
