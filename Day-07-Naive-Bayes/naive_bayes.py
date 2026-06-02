@@ -69,7 +69,7 @@ plt.xlabel("Feature 1")
 plt.ylabel("Feature 2")
 plt.title("Naive Bayes Dataset Visualization")
 
-# Save graph
+# Save graph and image file
 image_file = os.path.join(
     images_path,
     "naive_bayes_visualization.png"
