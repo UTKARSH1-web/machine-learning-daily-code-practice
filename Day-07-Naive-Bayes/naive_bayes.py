@@ -56,7 +56,7 @@ model_file = os.path.join(
 
 joblib.dump(model, model_file)
 
-# Visualization
+# Visualization of the dataset
 plt.figure(figsize=(7,6))
 
 plt.scatter(
