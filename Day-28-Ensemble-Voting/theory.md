@@ -22,7 +22,7 @@ Combines predictions from multiple classifiers.
 
 # Types
 
-## Hard Voting
+## Hard Voting Type
 
 Majority Vote
 
