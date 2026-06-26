@@ -59,7 +59,7 @@ Noise:
 
 ---
 
-# Applications
+# Applications and Uses
 
 - Customer Segmentation
 - Fraud Detection
