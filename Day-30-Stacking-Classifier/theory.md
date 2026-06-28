@@ -91,6 +91,6 @@ Examples:
 
 ---
 
-# Conclusion
+# Conclusions
 
 Stacking creates a smarter model by learning from the predictions of other models.
