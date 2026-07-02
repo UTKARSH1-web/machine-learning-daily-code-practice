@@ -82,7 +82,7 @@ Examples:
 
 ---
 
-# Applications
+# Applications and Uses
 
 - Kaggle Competitions
 - Finance
