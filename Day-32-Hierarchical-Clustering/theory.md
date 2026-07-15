@@ -62,12 +62,13 @@ Ward is most commonly used.
 
 ---
 
-# Applications and Uses
+# Applications
 
 - Customer Segmentation
 - Biology
 - Document Clustering
 - Image Segmentation
+- 
 
 ---
 
