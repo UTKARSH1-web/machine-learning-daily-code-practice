@@ -62,7 +62,7 @@ Ward is most commonly used.
 
 ---
 
-# Applications
+# Applications and Uses
 
 - Customer Segmentation
 - Biology
