@@ -80,3 +80,48 @@ plt.savefig(
 )
 
 plt.show()
+
+#  # Kernel half-size: cover ±3 sigma
+#         half = int(np.ceil(3 * sigma))
+
+#         # Integer positions from -half to +half
+#         x = np.arange(-half, half + 1)
+
+#         # 1D Gaussian formula
+#         g = (1 / (sigma * np.sqrt(2 * np.pi))) * \
+#             np.exp(-(x ** 2) / (2 * sigma ** 2))
+
+#         # Create 2D Gaussian using outer product
+#         kernel = np.outer(g, g)
+
+#         # Normalise so that kernel sums to 1
+#         kernel = kernel / np.sum(kernel)
+
+#         return kernel
+
+# mode = kwargs.get("mode", "same")
+# boundary = kwargs.get("boundary", "symm")
+# fillvalue = kwargs.get("fillvalue", 0)
+
+#         result = convolve2d(
+#             image,
+#             kernel,
+#             mode=mode,
+#             boundary=boundary,
+#             fillvalue=fillvalue,
+#         )
+
+#         return result
+
+# scale_factor = kwargs.get("scale_factor", 0.5)
+# order = kwargs.get("order", 0)
+
+#         result = rescale(
+#             image,
+#             scale_factor,
+#             order=order,
+#             anti_aliasing=False,
+#             mode="reflect",
+#         )
+
+#         return result
